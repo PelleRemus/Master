@@ -1,0 +1,7 @@
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\bin\Debug\OrdinElementGrupZn.exe.config
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\bin\Debug\OrdinElementGrupZn.exe
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\bin\Debug\OrdinElementGrupZn.pdb
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\obj\Debug\OrdinElementGrupZn.csprojAssemblyReference.cache
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\obj\Debug\OrdinElementGrupZn.csproj.CoreCompileInputs.cache
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\obj\Debug\OrdinElementGrupZn.exe
+D:\Files\#Github\Master\AlgebraComputationala\OrdinElementGrupZn\OrdinElementGrupZn\obj\Debug\OrdinElementGrupZn.pdb

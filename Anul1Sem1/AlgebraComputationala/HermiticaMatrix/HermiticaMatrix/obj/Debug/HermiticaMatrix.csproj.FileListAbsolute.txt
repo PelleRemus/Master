@@ -1,0 +1,7 @@
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\bin\Debug\HermiticaMatrix.exe.config
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\bin\Debug\HermiticaMatrix.exe
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\bin\Debug\HermiticaMatrix.pdb
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\obj\Debug\HermiticaMatrix.csprojAssemblyReference.cache
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\obj\Debug\HermiticaMatrix.csproj.CoreCompileInputs.cache
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\obj\Debug\HermiticaMatrix.exe
+D:\Files\#Github\Master\AlgebraComputationala\HermiticaMatrix\HermiticaMatrix\obj\Debug\HermiticaMatrix.pdb

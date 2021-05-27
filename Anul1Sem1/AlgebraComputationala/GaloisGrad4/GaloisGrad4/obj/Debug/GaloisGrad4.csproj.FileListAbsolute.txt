@@ -1,0 +1,7 @@
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\bin\Debug\GaloisGrad4.exe.config
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\bin\Debug\GaloisGrad4.exe
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\bin\Debug\GaloisGrad4.pdb
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\obj\Debug\GaloisGrad4.csprojAssemblyReference.cache
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\obj\Debug\GaloisGrad4.csproj.CoreCompileInputs.cache
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\obj\Debug\GaloisGrad4.exe
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad4\GaloisGrad4\obj\Debug\GaloisGrad4.pdb

@@ -1,0 +1,14 @@
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.csprojAssemblyReference.cache
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.csproj.CoreCompileInputs.cache
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.exe.config
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.exe
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.pdb
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.exe
+D:\Files\#Github\Master\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.exe.config
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.exe
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\bin\Debug\GaloisGrad3.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.csprojAssemblyReference.cache
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.csproj.CoreCompileInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.exe
+C:\Users\remus\Documents\GitHub\Master\Anul1Sem1\AlgebraComputationala\GaloisGrad3\GaloisGrad3\obj\Debug\GaloisGrad3.pdb

@@ -1,0 +1,7 @@
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\bin\Debug\MetodaGauss.exe.config
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\bin\Debug\MetodaGauss.exe
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\bin\Debug\MetodaGauss.pdb
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\obj\Debug\MetodaGauss.csprojAssemblyReference.cache
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\obj\Debug\MetodaGauss.csproj.CoreCompileInputs.cache
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\obj\Debug\MetodaGauss.exe
+D:\Files\#Github\Master\AlgebraComputationala\MetodaGauss\MetodaGauss\obj\Debug\MetodaGauss.pdb
