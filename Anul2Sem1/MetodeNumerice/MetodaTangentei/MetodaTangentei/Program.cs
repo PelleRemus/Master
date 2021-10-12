@@ -23,8 +23,8 @@ namespace MetodaTangentei
             F = x => x*x*x - x - 1;
             DF = x => 3*x*x - 1;
 
-            Console.WriteLine("\t\tf = x^3 - x - 1");
-            Console.WriteLine("\t\tf' = 3x^2 - 1");
+            Console.WriteLine("\t\tf(x) = x^3 - x - 1");
+            Console.WriteLine("\t\tf'(x) = 3x^2 - 1");
             MetodaTangentei(1e-4M);
             MetodaTangentei(1e-8M);
             MetodaTangentei(1e-12M);
@@ -38,8 +38,9 @@ namespace MetodaTangentei
             F = x => Power(x, k) - c;
             DF = x => k * Power(x, k - 1);
 
-            Console.WriteLine("\t\tf = x^k - c");
-            Console.WriteLine("\t\tf' = kx^(k-1)");
+            Console.WriteLine("\tCalculul radicalului de ordinul k din c:");
+            Console.WriteLine("\t\tf(x) = x^k - c");
+            Console.WriteLine("\t\tf'(x) = kx^(k-1)");
             MetodaTangentei(1e-4M);
             MetodaTangentei(1e-8M);
             MetodaTangentei(1e-12M);
@@ -47,12 +48,13 @@ namespace MetodaTangentei
 
         static void Ex3()
         {
-            b = 2;
+            b = 2; // cu dda = 0, x[0] va merge in algoritm pe ramura b
             k = 2;
             F = x => x * (x*x + 3*b) / (3*x*x + b);
             DF = null;
 
-            Console.WriteLine("\t\tf = x(x^2 + 3a) / (3x^2 + a)");
+            Console.WriteLine("\tCalculul radicalului de ordinul k din a:");
+            Console.WriteLine("\t\tf(x) = x(x^2 + 3a) / (3x^2 + a)");
             MetodaTangentei(1e-4M);
             MetodaTangentei(1e-8M);
             MetodaTangentei(1e-12M);
