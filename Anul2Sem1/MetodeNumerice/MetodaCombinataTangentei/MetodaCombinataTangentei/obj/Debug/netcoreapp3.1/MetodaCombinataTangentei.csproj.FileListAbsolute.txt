@@ -1,0 +1,14 @@
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.exe
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.deps.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.runtimeconfig.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.runtimeconfig.dev.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\bin\Debug\netcoreapp3.1\MetodaCombinataTangentei.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.csproj.AssemblyReference.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.AssemblyInfoInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.AssemblyInfo.cs
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.csproj.CoreCompileInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaCombinataTangentei\MetodaCombinataTangentei\obj\Debug\netcoreapp3.1\MetodaCombinataTangentei.genruntimeconfig.cache

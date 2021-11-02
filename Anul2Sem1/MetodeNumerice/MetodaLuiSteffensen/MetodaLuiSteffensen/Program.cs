@@ -45,6 +45,7 @@ namespace MetodaLuiSteffensen
         {
             decimal f_xn_1 = F(xn_1);
             Console.WriteLine("x[{0}] = {1}; f(x[{0}]) = {2}", n, xn_1, f_xn_1);
+
             decimal xn = xn_1 - f_xn_1 * f_xn_1
                               / (F(xn_1 + f_xn_1) - f_xn_1);
             return xn;
