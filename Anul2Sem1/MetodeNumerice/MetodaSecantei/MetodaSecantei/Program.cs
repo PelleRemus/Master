@@ -21,9 +21,7 @@ namespace MetodaSecantei
             F = x => x * x - 2;
 
             Console.WriteLine("\t\tf(x) = x^2 - 2");
-            MetodaSecantei(1e-4M);
-            MetodaSecantei(1e-8M);
-            MetodaSecantei(1e-12M);
+            Calls();
         }
 
         static void Ex2()
@@ -33,6 +31,11 @@ namespace MetodaSecantei
             F = x => x * x * x - x - 1;
 
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaSecantei(1e-4M);
             MetodaSecantei(1e-8M);
             MetodaSecantei(1e-12M);

@@ -25,9 +25,7 @@ namespace MetodaTangentei
 
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
             Console.WriteLine("\t\tf'(x) = 3x^2 - 1");
-            MetodaTangentei(1e-4M);
-            MetodaTangentei(1e-8M);
-            MetodaTangentei(1e-12M);
+            Calls();
         }
 
         static void Ex2()
@@ -41,9 +39,7 @@ namespace MetodaTangentei
             Console.WriteLine("\tCalculul radicalului de ordinul k din c:");
             Console.WriteLine("\t\tf(x) = x^k - c");
             Console.WriteLine("\t\tf'(x) = kx^(k-1)");
-            MetodaTangentei(1e-4M);
-            MetodaTangentei(1e-8M);
-            MetodaTangentei(1e-12M);
+            Calls();
         }
 
         static void Ex3()
@@ -55,6 +51,11 @@ namespace MetodaTangentei
 
             Console.WriteLine("\tCalculul radicalului de ordinul k din a:");
             Console.WriteLine("\t\tf(x) = x(x^2 + 3a) / (3x^2 + a)");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaTangentei(1e-4M);
             MetodaTangentei(1e-8M);
             MetodaTangentei(1e-12M);

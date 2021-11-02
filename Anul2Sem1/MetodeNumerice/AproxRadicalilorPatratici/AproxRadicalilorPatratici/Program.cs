@@ -16,18 +16,19 @@ namespace AproxRadicalilorPatratici
         static void Ex1()
         {
             a = 2;
-
             Console.WriteLine("\t\t√2", a);
-            AproxRadicalilorPatratici(1e-4M);
-            AproxRadicalilorPatratici(1e-8M);
-            AproxRadicalilorPatratici(1e-12M);
+            Calls();
         }
 
         static void Ex2()
         {
             a = 0.5M;
-
             Console.WriteLine("\t\t√(1/2)");
+            Calls();
+        }
+
+        static void Calls()
+        {
             AproxRadicalilorPatratici(1e-4M);
             AproxRadicalilorPatratici(1e-8M);
             AproxRadicalilorPatratici(1e-12M);

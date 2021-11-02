@@ -24,9 +24,7 @@ namespace MetodaLuiHalley
             Console.WriteLine("\t\tf(x) = x^2 - 2");
             Console.WriteLine("\t\tf'(x) = 2x");
             Console.WriteLine("\t\tf''(x) = 2");
-            MetodaLuiHalley(1e-4M);
-            MetodaLuiHalley(1e-8M);
-            MetodaLuiHalley(1e-12M);
+            Calls();
         }
 
         static void Ex2()
@@ -39,6 +37,11 @@ namespace MetodaLuiHalley
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
             Console.WriteLine("\t\tf'(x) = 3x^2 - 1");
             Console.WriteLine("\t\tf''(x) = 6x");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaLuiHalley(1e-4M);
             MetodaLuiHalley(1e-8M);
             MetodaLuiHalley(1e-12M);

@@ -19,6 +19,11 @@ namespace MetodaLuiSteffensen
             F = x => x * x * x - x - 1;
 
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaLuiSteffensen(1e-4M);
             MetodaLuiSteffensen(1e-8M);
             MetodaLuiSteffensen(1e-12M);

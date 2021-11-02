@@ -22,6 +22,11 @@ namespace MetodaLuiCebisev
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
             Console.WriteLine("\t\tf'(x) = 3x^2 - 1");
             Console.WriteLine("\t\tf''(x) = 6x");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaLuiCebisev(1e-4M);
             MetodaLuiCebisev(1e-8M);
             MetodaLuiCebisev(1e-28M);

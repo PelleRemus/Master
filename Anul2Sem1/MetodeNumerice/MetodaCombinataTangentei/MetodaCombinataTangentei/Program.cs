@@ -23,9 +23,7 @@ namespace MetodaCombinataTangentei
 
             Console.WriteLine("\t\tf(x) = x^2 - 2");
             Console.WriteLine("\t\tf'(x) = 2x");
-            MetodaCombinataATangentei(1e-4M);
-            MetodaCombinataATangentei(1e-8M);
-            MetodaCombinataATangentei(1e-12M);
+            Calls();
         }
 
         static void Ex2()
@@ -37,6 +35,11 @@ namespace MetodaCombinataTangentei
 
             Console.WriteLine("\t\tf(x) = x^3 - x - 1");
             Console.WriteLine("\t\tf'(x) = 3x^2 - 1");
+            Calls();
+        }
+
+        static void Calls()
+        {
             MetodaCombinataATangentei(1e-4M);
             MetodaCombinataATangentei(1e-8M);
             MetodaCombinataATangentei(1e-12M);
