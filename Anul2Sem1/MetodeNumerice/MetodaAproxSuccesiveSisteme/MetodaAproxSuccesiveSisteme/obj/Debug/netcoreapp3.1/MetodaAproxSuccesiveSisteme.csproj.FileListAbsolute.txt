@@ -1,0 +1,14 @@
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.exe
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.deps.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.runtimeconfig.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.runtimeconfig.dev.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\bin\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.csproj.AssemblyReference.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.AssemblyInfoInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.AssemblyInfo.cs
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.csproj.CoreCompileInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\MetodaAproxSuccesiveSisteme\MetodaAproxSuccesiveSisteme\obj\Debug\netcoreapp3.1\MetodaAproxSuccesiveSisteme.genruntimeconfig.cache

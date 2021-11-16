@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmEuler", "AlgoritmEuler\AlgoritmEuler.csproj", "{38214142-1EBD-49F5-8BAE-88C15273DA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38214142-1EBD-49F5-8BAE-88C15273DA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38214142-1EBD-49F5-8BAE-88C15273DA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38214142-1EBD-49F5-8BAE-88C15273DA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38214142-1EBD-49F5-8BAE-88C15273DA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEDE334C-F6D0-4DE3-8D2F-118DC51E7A94}
+	EndGlobalSection
+EndGlobal

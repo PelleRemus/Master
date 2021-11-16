@@ -24,7 +24,7 @@ namespace MetodaNewtonSisteme
             DGy = (x, y) => 3 * x * y * y - 1;
 
             Console.WriteLine("\t\t2x^3 - y^2 - 1 = 0");
-            Console.WriteLine("\t\txy^3 - y - 4 = 0");
+            Console.WriteLine("\t\t xy^3 - y - 4  = 0");
             Calls(1.2M, 1.7M);
         }
 
@@ -38,7 +38,7 @@ namespace MetodaNewtonSisteme
             DGy = (x, y) => 1.0M / 2 / (decimal)Math.Sqrt((double)(x + y));
 
             Console.WriteLine("\t\tx^2 + y^2 - 10 = 0");
-            Console.WriteLine("\t\t√(x + y) - 2 = 0");
+            Console.WriteLine("\t\t √(x + y) - 2  = 0");
             Calls(0.9M, 3.1M);
             Calls(2.9M, 1.1M);
             Calls(1.99999999999999M, 2.00000000000001M);
@@ -47,6 +47,7 @@ namespace MetodaNewtonSisteme
         static void Calls(decimal x, decimal y)
         {
             x0 = x; y0 = y;
+            Console.WriteLine();
             Console.WriteLine("\t\tx[0] = {0}\t\t\t\ty[0] = {1}", x, y);
             MetodaNewtonSisteme(1e-4M);
             MetodaNewtonSisteme(1e-8M);
@@ -71,7 +72,7 @@ namespace MetodaNewtonSisteme
                 xn = CalculateXN(xn_1, yn_1, j);
                 yn = CalculateYN(xn_1, yn_1, j);
             }
-            Console.WriteLine("n = {0} iteratii: x[n+1] = {1}, y[n+1] = {2} (epsilon = {3})", n, xn, yn, eps);
+            Console.WriteLine("n = {0} iteratii: x[n+1] = {1}, y[n+1] = {2} (epsilon = {3})", n, xn, yn, eps.ToString("0e0"));
         }
 
         static decimal CalculateXN(decimal xn_1, decimal yn_1, decimal j)

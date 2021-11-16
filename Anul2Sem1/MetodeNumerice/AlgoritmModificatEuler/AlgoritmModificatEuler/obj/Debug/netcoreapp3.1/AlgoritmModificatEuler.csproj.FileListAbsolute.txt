@@ -1,0 +1,14 @@
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.exe
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.deps.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.runtimeconfig.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.runtimeconfig.dev.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\bin\Debug\netcoreapp3.1\AlgoritmModificatEuler.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.csproj.AssemblyReference.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.AssemblyInfoInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.AssemblyInfo.cs
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.csproj.CoreCompileInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmModificatEuler\AlgoritmModificatEuler\obj\Debug\netcoreapp3.1\AlgoritmModificatEuler.genruntimeconfig.cache
