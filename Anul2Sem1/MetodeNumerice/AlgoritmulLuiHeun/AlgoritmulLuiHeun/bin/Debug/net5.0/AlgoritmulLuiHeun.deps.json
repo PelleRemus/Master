@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AlgoritmulLuiHeun/1.0.0": {
+        "runtime": {
+          "AlgoritmulLuiHeun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoritmulLuiHeun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
