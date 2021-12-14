@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaAproxSuccCauchyOrd1", "MetodaAproxSuccCauchyOrd1\MetodaAproxSuccCauchyOrd1.csproj", "{A513E67E-50D6-49C4-BE86-FD4514A4F43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A513E67E-50D6-49C4-BE86-FD4514A4F43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A513E67E-50D6-49C4-BE86-FD4514A4F43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A513E67E-50D6-49C4-BE86-FD4514A4F43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A513E67E-50D6-49C4-BE86-FD4514A4F43E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD96A3D7-78DF-4BB1-A292-D1EC4169514A}
+	EndGlobalSection
+EndGlobal

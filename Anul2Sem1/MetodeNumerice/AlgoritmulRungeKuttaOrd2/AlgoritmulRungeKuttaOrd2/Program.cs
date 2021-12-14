@@ -27,10 +27,10 @@ namespace AlgoritmulRungeKuttaOrd2
         static void Calls(decimal x, decimal y)
         {
             x0 = x; y0 = y;
-            RungeKutta2(20);
+            RungeKutta4(20);
         }
 
-        static void RungeKutta2(int n)
+        static void RungeKutta4(int n)
         {
             decimal h = t / (decimal)n;
             decimal xi_1, yi_1, xi = x0, yi = y0;

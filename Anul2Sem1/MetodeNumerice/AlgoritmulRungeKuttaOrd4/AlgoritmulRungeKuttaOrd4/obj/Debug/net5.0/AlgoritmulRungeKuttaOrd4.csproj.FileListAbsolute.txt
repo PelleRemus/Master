@@ -1,0 +1,16 @@
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.exe
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.deps.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.runtimeconfig.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.runtimeconfig.dev.json
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\ref\AlgoritmulRungeKuttaOrd4.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\bin\Debug\net5.0\AlgoritmulRungeKuttaOrd4.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.csproj.AssemblyReference.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.AssemblyInfoInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.AssemblyInfo.cs
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.csproj.CoreCompileInputs.cache
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\ref\AlgoritmulRungeKuttaOrd4.dll
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.pdb
+C:\Users\remus\Documents\GitHub\Master\Anul2Sem1\MetodeNumerice\AlgoritmulRungeKuttaOrd4\AlgoritmulRungeKuttaOrd4\obj\Debug\net5.0\AlgoritmulRungeKuttaOrd4.genruntimeconfig.cache
