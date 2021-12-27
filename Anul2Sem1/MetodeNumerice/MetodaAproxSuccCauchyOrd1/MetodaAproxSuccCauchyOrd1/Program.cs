@@ -142,8 +142,8 @@ namespace MetodaAproxSuccCauchyOrd1
         {
             decimal max = 0;
             for (int i = 1; i <= length; i++)
-                if (max < Math.Abs(y[m][1] - y[m - 1][1]))
-                    max = Math.Abs(y[m][1] - y[m - 1][1]);
+                if (max < Math.Abs(y[m][i] - y[m - 1][i]))
+                    max = Math.Abs(y[m][i] - y[m - 1][i]);
             return max;
         }
     }
