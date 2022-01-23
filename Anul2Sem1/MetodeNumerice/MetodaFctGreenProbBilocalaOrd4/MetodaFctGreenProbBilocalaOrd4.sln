@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaFctGreenProbBilocalaOrd4", "MetodaFctGreenProbBilocalaOrd4\MetodaFctGreenProbBilocalaOrd4.csproj", "{BFBB4658-F69E-435C-B127-A4A280F116A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBB4658-F69E-435C-B127-A4A280F116A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBB4658-F69E-435C-B127-A4A280F116A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBB4658-F69E-435C-B127-A4A280F116A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBB4658-F69E-435C-B127-A4A280F116A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC2CF75A-F1F8-4B0D-B18E-F88937FDE222}
+	EndGlobalSection
+EndGlobal
