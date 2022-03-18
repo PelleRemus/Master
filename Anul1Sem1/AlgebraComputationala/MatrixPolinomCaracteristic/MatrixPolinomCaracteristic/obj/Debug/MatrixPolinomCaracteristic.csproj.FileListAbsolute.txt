@@ -1,7 +1,0 @@
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\bin\Debug\MatrixPolinomCaracteristic.exe.config
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\bin\Debug\MatrixPolinomCaracteristic.exe
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\bin\Debug\MatrixPolinomCaracteristic.pdb
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\obj\Debug\MatrixPolinomCaracteristic.csprojAssemblyReference.cache
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\obj\Debug\MatrixPolinomCaracteristic.csproj.CoreCompileInputs.cache
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\obj\Debug\MatrixPolinomCaracteristic.exe
-D:\Files\#Github\Master\AlgebraComputationala\MatrixPolinomCaracteristic\MatrixPolinomCaracteristic\obj\Debug\MatrixPolinomCaracteristic.pdb
